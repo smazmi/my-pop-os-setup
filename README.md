@@ -137,6 +137,12 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```zsh
 plugins=(
 # other plugins...
+git
+sudo
+copybuffer
+copypath
+dirhistory
+web-search
 zsh-autosuggestions
 zsh-syntax-highlighting
 )
