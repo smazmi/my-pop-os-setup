@@ -286,20 +286,20 @@ sudo apt install gnome-tweaks
 
 > Note: Install gnome-extensions in browser if not already installed.
 
-- ![User Themes](https://extensions.gnome.org/static/images/plugin.png) [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
-- [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
-- [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
-- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
-- [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
-- [Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
-- [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
-- [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
-- [Dash to Dock for COSMIC](https://extensions.gnome.org/extension/5004/dash-to-dock-for-cosmic/)
-- [Gradient Top Bar](https://extensions.gnome.org/extension/4955/gradient-top-bar/)
-- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
-- [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
-- [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
+- <img src="https://extensions.gnome.org/static/images/plugin.png" alt="User Themes" width="20" height="20">  [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_3499.png" alt="Application Volume Mixer" width="20" height="20">  [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_3193_QedHJZY.png" alt="Blur my Shell" width="20" height="20">  [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_517.png" alt="Caffeine" width="20" height="20">  [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_779_cGrEoF7.png" alt="Clipboard Indicator" width="20" height="20">  [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_3740.png" alt="Compiz alike magic lamp effect" width="20" height="20">  [Compiz alike magic lamp effect](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_3210.png" alt="Compiz windows effect" width="20" height="20">  [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_97_mxBGU7X.png" alt="Coverflow Alt-Tab" width="20" height="20">  [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_5004.png" alt="Dash to Dock for COSMIC" width="20" height="20">  [Dash to Dock for COSMIC](https://extensions.gnome.org/extension/5004/dash-to-dock-for-cosmic/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_4955.png" alt="Gradient Top Bar" width="20" height="20">  [Gradient Top Bar](https://extensions.gnome.org/extension/4955/gradient-top-bar/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_1319_VlYFTP0.png" alt="GSConnect" width="20" height="20">  [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_750_ize19oA.png" alt="OpenWeather" width="20" height="20">  [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_906.png" alt="Sound Input & Output Device Chooser" width="20" height="20">  [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
+- <img src="https://extensions.gnome.org/extension-data/icons/icon_1460.png" alt="Vitals" width="20" height="20">  [Vitals](https://extensions.gnome.org/extension/1460/vitals/)
 
 ### 🌈🧙 Install GNOME themes
 
