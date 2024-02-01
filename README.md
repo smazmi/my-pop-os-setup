@@ -286,7 +286,7 @@ sudo apt install gnome-tweaks
 
 > Note: Install gnome-extensions in browser if not already installed.
 
-- [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+- ![User Themes](https://extensions.gnome.org/static/images/plugin.png) [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/)
