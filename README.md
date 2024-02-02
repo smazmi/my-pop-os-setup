@@ -429,7 +429,7 @@ sudo apt-get install ninja-build gettext cmake unzip curl
 1. Clone the Neovim repository.
 ```zsh
 git clone https://github.com/neovim/neovim
-cd neovim
+cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo
 ```
 2. Switch your working directory to the latest commit on the "stable" branch.
 ```zsh
