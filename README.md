@@ -321,8 +321,8 @@ mkdir ~/.icons
 ## 📦⚙️ Git config
 
 ```zsh
-git clone https://github.com/your-username/setup-script.git
-cd setup-script
+git clone https://github.com/smazmi/git-setup
+cd git-setup
 ```
 
 - Run the script:
